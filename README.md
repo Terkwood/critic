@@ -1,2 +1,3 @@
-# critic
-judge images
+# critic 👩🏾‍⚖️
+
+Label images for ML classification
